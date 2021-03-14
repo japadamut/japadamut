@@ -1,3 +1,3 @@
-- 👋  Hi, I’m Juan A. Pujante @japadamut  
-- 👀  Full-Stack developer engineer
-- 🌱  Continuously improving
+- 👋  &nbsp;Hi, I’m Juan A. Pujante @japadamut  
+- 👀  &nbsp;Full-Stack developer engineer
+- 🌱  &nbsp;Continuously improving
